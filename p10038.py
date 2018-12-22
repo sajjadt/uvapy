@@ -11,12 +11,7 @@ while True:
       continue
 
     is_jolly = True
-    for i in range(1, n):
-      
-      #if inps[i] <= 0 or inps[i+1] <= 0:
-      #  is_jolly = False
-      #  break 
-      
+    for i in range(1, n):                                      
       distance = abs(inps[i] - inps[i+1])
 
       if distance >= n:
