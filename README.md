@@ -1,4 +1,1 @@
-# prg-challenges
-My Solutions for problem set from the Programming Challenges book.
-
-They can be sumitted to UVA Online Judge (http://uva.onlinejudge.org/)
+My solutoins for programming contest archive hosted by UVA Online Judge (http://uva.onlinejudge.org/)
