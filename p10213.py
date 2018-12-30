@@ -30,6 +30,6 @@ for test in range(num_tests):
     sol = sol_space[num]
   else:
     sol = 0
-
+  
   print(int(sol))
 

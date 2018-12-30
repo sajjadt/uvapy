@@ -30,6 +30,6 @@ while True:
   if m == n == "0":
     break
 
-  print(pow(int(m[0]), int(n), 10))
+  print(pow(int(m), int(n), 10))
 
 
