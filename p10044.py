@@ -23,7 +23,6 @@ for i in range(num_tests):
     p_authors = p_authors.split(", ")
     p_authors = [p_authors[i] +"," + p_authors[i+1] for i in range(0, len(p_authors) - 1, 2)]
     
-    
     for u, v in itertools.combinations(p_authors, 2):
       if not u in g:
         g[u] = Node(u)
